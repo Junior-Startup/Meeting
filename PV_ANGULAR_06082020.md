@@ -1,4 +1,4 @@
-# PV Réunion 1 | Angular Developers | 07/08/2020
+# PV Réunion 1 | Angular Developers | 06/08/2020
 
 > Comme chacun sait, cette période sera consacrée à la découverte et à l'acquisition de différentes notions sur le framework Angular, alors en premier temps, les premières réunions seront orientées côté formation jusqu'à ce qu'il devienne clair que nous sommes prêts à développer des applications web modernes en se basant sur Angular.
 
