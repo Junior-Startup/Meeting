@@ -25,7 +25,7 @@
 
 >De nouvelles mesures seront établies dans les prochaines absences injustifiées.
 
->Juste après l'introduction aux deux Frameworks Angular et ReactJs, il s'avère nécessaire pour les deux équipes, de passer à la pratique au fur et à mesure avec l'autoforamation.
+>Juste après l'introduction aux deux Frameworks Angular et ReactJs, il s'avère nécessaire pour les deux équipes, de passer à la pratique au fur et à mesure avec l'autoformation.
 
 >Mise en accord sur la nécessité de programmer prochainement une formation "Clean Code".
 
