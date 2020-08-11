@@ -31,6 +31,8 @@
 >> Différence entre npm et npx
 >>
 >> Architecture de projet react.js
+>>
+>> JSX
 
 > Les Components
 >> La différence entre classe et hooks
