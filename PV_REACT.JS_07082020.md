@@ -30,7 +30,7 @@
 >>
 >> Différence entre npm et npx
 >>
->> Architecture de projet react.js
+>> Architecture d'un projet react.js
 >>
 >> JSX
 
