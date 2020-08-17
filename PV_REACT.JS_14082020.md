@@ -1,4 +1,4 @@
-# PV Réunion 1 | React.js Developers | 07/08/2020
+# PV Réunion 2 | React.js Developers | 14/08/2020
 
 > Cette réunion consiste à présenter une introduction globale à React.js .
 
