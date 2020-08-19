@@ -27,7 +27,8 @@
 > > les classe et les Hooks
 
 ## Points à discuter dans la prochaine réunion :
-
+> state et props
+>>
 > les Hooks
 >
 > > useState()
