@@ -21,11 +21,13 @@
 > Intéractions : _@Input_ et _@Output_
 
 > Services
+
 >> Principe et définition
 
 >> Exemples et utilisations
 
 > Pipes
+
 >> principe et définition
 
 >> Types : _pure_ & _impure_
@@ -35,11 +37,17 @@
 >> Exemples et utilisations
 
 > Routing
+
 >> Principe et définition
 
 >> Exemples et utilisation
 
 ## Points à discuter dans la prochaine réunion :
 ---
-_A actualiser..._
+> Routing _(suite)_
 
+> Formulaires
+
+> Observables
+
+> HttpClient _(intro)_
