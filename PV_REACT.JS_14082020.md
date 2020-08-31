@@ -41,7 +41,6 @@
 > >
 > > Consommer des API REST
 > > fetch()
-> >
 > > axios()
 > >
 > React Router
